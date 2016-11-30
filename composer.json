@@ -4,6 +4,7 @@
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
     "version": "1.0.0",
     "homepage": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "calebfavor",
