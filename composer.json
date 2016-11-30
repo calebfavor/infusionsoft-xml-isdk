@@ -1,18 +1,17 @@
 {
-    "name": "infusionsoft/old-php-isdk",
-    "description": "The unofficial Infusionsoft API PHP SDK",
+    "name": "infusionsoft-xml-isdk",
+    "description": "An updated infusionsoft xml iSDK for php 7.",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
-    "version": "1.9.0",
-    "license": "MIT",
+    "version": "1.0.0",
     "homepage": "",
     "authors": [
         {
-            "name": "Infusionsoft-old-iSDK",
+            "name": "calebfavor",
             "homepage": ""
         }
     ],
     "require": {
-        "php": ">=5.2.0",
+        "php": ">=7.0.0",
         "ext-curl": "*"
     },
     "autoload": {
