@@ -1,5 +1,5 @@
 {
-    "name": "infusionsoft/infusionsoft-xml-isdk",
+    "name": "railroad-infusionsoft/infusionsoft-xml-isdk",
     "description": "An updated infusionsoft xml iSDK for php 7.",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
     "version": "1.0.0",
